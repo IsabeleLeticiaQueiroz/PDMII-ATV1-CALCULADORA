@@ -1,2 +1,2 @@
-## 🖼️ Preview do App
+## 🧮🌸✨ Calculadora
 <img src="APP.png" width="300"/>
