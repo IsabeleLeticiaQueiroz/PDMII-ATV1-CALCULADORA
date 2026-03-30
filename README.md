@@ -1,2 +1,2 @@
 ## 🖼️ Preview do App
-![Calculadora](app.png)
+![Calculadora](APP.png)
